@@ -1,0 +1,54 @@
+[
+  {
+    "online": "1300",
+    "maxonline": "1300",
+    "color": "00BFFF",
+    "x2": "false",
+    "key": "1424",
+    "name": "BLACK ALMATY | GLOBAL",
+    "firstname": "Almaty",
+    "secondname": "",
+    "url": "blue.br.online",
+    "ip": "80.242.59.112",
+    "port": "5554"
+  },
+ {
+    "online": "1300",
+    "maxonline": "1300",
+    "color": "FFFFFF",
+    "x2": "false",
+    "key": "1424",
+    "name": "BLACK ALMATY | GLOBAL",
+    "firstname": "Astana",
+    "secondname": "",
+    "url": "white.br.online",
+    "ip": "80.242.59.112",
+    "port": "5554"
+  },
+ {
+    "online": "1300",
+    "maxonline": "1300",
+    "color": "808080",
+    "x2": "false",
+    "key": "1424",
+    "name": "BLACK ALMATY | GLOBAL",
+    "firstname": "Shymkent",
+    "secondname": "",
+    "url": "gray.br.online",
+    "ip": "80.242.59.112",
+    "port": "5554"
+  },
+ {
+    "online": "1300",
+    "maxonline": "1300",
+    "color": "008000",
+    "x2": "false",
+    "key": "1424",
+    "name": "BLACK ALMATY | GLOBAL",
+    "firstname": "Batys",
+    "secondname": "",
+    "url": "green.br.online",
+    "ip": "80.242.59.112",
+    "port": "5554"
+  }
+]
